@@ -93,11 +93,7 @@ Error generating stack: `+e.message+`
         以下の例では，白いボトルを移動しています．
         <br />
         そのため，動画のように白いボトルを囲んでください．
-        `,video:"./bridge/good3.mp4"},{title:"良い例4",description:`
-        以下の例では，水色の積み木を移動しています．
-        <br />
-        そのため，動画のように水色の積み木を囲んでください．
-        `,video:"./bridge/good4.mp4"},{title:"良い例5",description:`
+        `,video:"./bridge/good3.mp4"},{title:"良い例5",description:`
         以下の例では，スプーンを移動していますが，左の画像では映っていません．
         <br />
         そのため，動画のようにチェックボックスにチェックを入れた後に，画像全体を囲んでください．
